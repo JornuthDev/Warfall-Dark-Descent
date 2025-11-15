@@ -1,0 +1,10 @@
+﻿#include "Core/DarkCharacter.h"
+
+// ───────────────────────────────────────────────────────────────────────────────
+// ─── Construction ──────────────────────────────────────────────────────────────
+ADarkCharacter::ADarkCharacter()
+{
+	PrimaryActorTick.bCanEverTick = true;
+}
+
+
