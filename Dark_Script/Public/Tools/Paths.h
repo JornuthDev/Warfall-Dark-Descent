@@ -1,0 +1,18 @@
+#pragma once
+
+#include "CoreMinimal.h"
+
+// TABLES PATHS
+
+#define INPUTS_TABLE_PATH TEXT("/Script/Engine.DataTable'/Dark_Script/Data/Tables/InputsTable.InputsTable'")
+#define ITEMS_TABLE_PATH TEXT("/Script/Engine.DataTable'/Dark_Script/Data/Tables/ItemsTable.ItemsTable'")
+#define MODULES_TABLE_PATH TEXT("/Script/Engine.DataTable'/Dark_Script/Data/Tables/ModulesTable.ModulesTable'")
+#define ARMORS_TABLE_PATH TEXT("/Script/Engine.DataTable'/Dark_Script/Data/Tables/ArmorsTable.ArmorsTable'")
+
+
+// LEVELS PATHS
+
+#define LVL_MENU_PATH TEXT("/Dark_Script/Levels/Menu")
+#define LVL_LOBBY_PATH TEXT("/Dark_Script/Levels/Lobby")
+#define LVL_GAME_PATH TEXT("/Dark_Script/Levels/Game")
+
